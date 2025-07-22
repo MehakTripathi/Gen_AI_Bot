@@ -43,10 +43,3 @@ Once the presentation is generated, the final `.pptx` file is delivered instantl
 - **Flask / FastAPI (optional)** for deployment on web server
 
 ---
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MehakTripathi/YoJo--Your-Joy-Organiser.git
-   cd YoJo--Your-Joy-Organiser
